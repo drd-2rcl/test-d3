@@ -1,0 +1,29 @@
+
+{id: 1404, name: "ZMM03_MEK1_V_KONH_VKS", description: "ZMM03 - Custeio do produto", sistema_id: 1, type: "Autorizacao"}
+{id: 1405, name: "ZMM03_MEK2_V_KONH_VKS", description: "ZMM03 - Custeio do produto", sistema_id: 1, type: "Autorizacao", …}
+{id: 1656, name: "ZPR02_ME21N_M_BEST_BSA", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+{id: 1657, name: "ZPR02_ME21N_M_BEST_EKG", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+{id: 1658, name: "ZPR02_ME21N_M_BEST_EKO", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+{id: 1659, name: "ZPR02_ME21N_M_BEST_WRK", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+
+
+6: {id: 1664, name: "ZPR02_ME22N_M_BEST_BSA", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+7: {id: 1665, name: "ZPR02_ME22N_M_BEST_EKG", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+8: {id: 1666, name: "ZPR02_ME22N_M_BEST_EKO", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+9: {id: 1667, name: "ZPR02_ME22N_M_BEST_WRK", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+10: {id: 1696, name: "ZPR02_ME59_M_BEST_BSA", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+11: {id: 1697, name: "ZPR02_ME59_M_BEST_EKG", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+12: {id: 1698, name: "ZPR02_ME59_M_BEST_EKO", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+13: {id: 1699, name: "ZPR02_ME59_M_BEST_WRK", description: "ZPR02 - Manter pedido de compra", sistema_id: 1, type: "Autorizacao", …}
+14: {id: 1768, name: "ZPR05_MEK1_V_KOND_VEA", description: "ZPR05 - Contratos de compras", sistema_id: 1, type: "Autorizacao", …}
+15: {id: 1769, name: "ZPR05_MEK1_V_KONH_EKO", description: "ZPR05 - Contratos de compras", sistema_id: 1, type: "Autorizacao", …}
+16: {id: 1770, name: "ZPR05_MEK1_V_KONH_VKS", description: "ZPR05 - Contratos de compras", sistema_id: 1, type: "Autorizacao", …}
+17: {id: 1771, name: "ZPR05_MEK2_V_KOND_VEA", description: "ZPR05 - Contratos de compras", sistema_id: 1, type: "Autorizacao", …}
+18: {id: 1772, name: "ZPR05_MEK2_V_KONH_EKO", description: "ZPR05 - Contratos de compras", sistema_id: 1, type: "Autorizacao", …}
+19: {id: 1773, name: "ZPR05_MEK2_V_KONH_VKS", description: "ZPR05 - Contratos de compras", sistema_id: 1, type: "Autorizacao", …}
+20: {id: 2194, name: "ZSD02_VL71_V_LIKP_VST", description: "ZSD02 - Processamento de entrega", sistema_id: 1, type: "Autorizacao", …}
+21: {id: 20989, name: "ZMM06_ZMM069_M_MATE_STA", description: "ZMM06-Criar lista técnica de material", sistema_id: 1, type: "Autorizacao", …}
+22: {id: 20990, name: "ZMM06_ZMM069_M_MATE_VKO", description: "ZMM06-Criar lista técnica de material", sistema_id: 1, type: "Autorizacao", …}
+23: {id: 20991, name: "ZMM06_ZMM069_M_MATE_WRK", description: "ZMM06-Criar lista técnica de material", sistema_id: 1, type: "Autorizacao", …}
+length: 24
+__proto__: Array(0)
